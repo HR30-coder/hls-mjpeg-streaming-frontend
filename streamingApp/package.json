@@ -1,6 +1,6 @@
 {
   "name": "streamingapp",
-  "homepage": "https://github.com/HR30-coder/hls-mjpeg-streaming-frontend/streamingApp",
+  "homepage": "https://github.com/HR30-coder/hls-mjpeg-streaming-frontend/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
